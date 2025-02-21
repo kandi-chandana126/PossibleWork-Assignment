@@ -1,1 +1,1 @@
-Constant Term (Secret c): 2.4
+Secret : 2.4
